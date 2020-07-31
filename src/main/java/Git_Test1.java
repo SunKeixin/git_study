@@ -1,7 +1,5 @@
 public class Git_Test1 {
+    public void test1(){
 
-    @Override
-    public int hashCode() {
-        return super.hashCode();
     }
 }
