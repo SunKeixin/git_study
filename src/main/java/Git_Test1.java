@@ -5,5 +5,6 @@ public class Git_Test1 {
         System.out.println("我在test1修改了。。。");
         System.out.println("测试git add -i test1");
         System.out.println("测试git add -i test12222");
+        System.out.println("测试git add -i test122333");
     }
 }
